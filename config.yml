@@ -1,0 +1,28 @@
+
+webtraffic_pipeline:
+  input:
+    path: input
+    format: json
+    schema: input_schema.json
+  output:
+    path: output
+    format: parquet
+    schema: output_schema.json
+    mode: overwrite
+
+spark: &spark_default_conf
+  spark.app.name: didomi_challenge
+  spark.driver.cores: 1
+  spark.driver.maxResultSize: 1gb
+  spark.executor.id: driver
+  spark.executor.memory: 1gb
+  spark.master: local[*]
+  spark.rdd.compress: true
+  spark.serializer.objectStreamReset: 100
+  spark.submit.deployMode: client
+  spark.submit.pyFiles: ''
+  spark.ui.showConsoleProgress: true
+
+test:
+  data_path : src/test/data/
+  spark: *spark_default_conf

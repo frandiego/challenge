@@ -1,0 +1,66 @@
+{
+  "fields":
+  [
+    {
+      "name": "datehour",
+      "metadata": {},
+      "nullable": false,
+      "type": "string"
+    },
+    {
+      "name": "domain",
+      "metadata": {},
+      "nullable": false,
+      "type": "string"
+    },
+    {
+      "name": "country",
+      "metadata": {},
+      "nullable": false,
+      "type": "string"
+    },
+    {
+      "name": "pageviews",
+      "metadata": {},
+      "nullable": true,
+      "type": "integer"
+    },
+    {
+      "name": "pageviews_with_consent",
+      "metadata": {},
+      "nullable": true,
+      "type": "integer"
+    },
+    {
+      "name": "consents_asked",
+      "metadata": {},
+      "nullable": true,
+      "type": "integer"
+    },
+    {
+      "name": "consents_asked_with_consent",
+      "metadata": {},
+      "nullable": true,
+      "type": "integer"
+    },
+    {
+      "name": "consents_given",
+      "metadata": {},
+      "nullable": true,
+      "type": "integer"
+    },
+    {
+      "name": "consents_given_with_consent",
+      "metadata": {},
+      "nullable": true,
+      "type": "integer"
+    },
+    {
+      "name": "avg_pageviews_per_user",
+      "metadata": {},
+      "nullable": true,
+      "type": "float"
+    }
+  ],
+  "type": "struct"
+}

@@ -1,0 +1,59 @@
+{
+  "fields":
+  [
+    {
+      "name": "domain",
+      "metadata": {},
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "name": "id",
+      "metadata": {},
+      "nullable": false,
+      "type": "string"
+    },
+    {
+      "name": "type",
+      "metadata": {},
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "name": "user",
+      "metadata": {},
+      "nullable": true,
+      "type": {
+        "fields":
+        [
+          {
+            "name": "id",
+            "metadata": {},
+            "nullable": false,
+            "type": "string"
+          },
+          {
+            "name": "country",
+            "metadata": {},
+            "nullable": true,
+            "type": "string"
+          },
+          {
+            "name": "token",
+            "metadata": {},
+            "nullable": true,
+            "type": "string"
+          }
+        ],
+        "type": "struct"
+      }
+    },
+    {
+      "name": "datehour",
+      "metadata": {},
+      "nullable": true,
+      "type": "string"
+    }
+  ],
+  "type": "struct"
+}

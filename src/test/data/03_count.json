@@ -1,0 +1,14 @@
+{"datehour":"2021-03-03-17","domain":"www.domain-A.eu","country":"FR","type":"consent.given","uid":"1705c98b-367c-6d09-a30f-da9e6f4da700","n_events":1,"n_consent":1}
+{"datehour":"2021-03-03-17","domain":"www.mywebsite.com","country":"FR","type":"consent.given","uid":"8a082392-1ce7-4957-ab7f-335b35e5aab3","n_events":1,"n_consent":1}
+{"datehour":"2021-03-03-17","domain":"www.mywebsite.com","country":"DE","type":"consent.given","uid":"b75f471c-932c-4ed8-aca1-ededec6e1b40","n_events":1,"n_consent":1}
+{"datehour":"2021-03-03-18","domain":"www.domain-A.eu","country":"ES","type":"consent.given","uid":"dfa709b4-966d-41bb-9f84-9257efe56904","n_events":1,"n_consent":0}
+{"datehour":"2021-03-03-18","domain":"www.domain-A.eu","country":"ES","type":"consent.asked","uid":"8bfa9ffb-97d5-46f1-b712-215374a30e96","n_events":1,"n_consent":0}
+{"datehour":"2021-03-03-17","domain":"www.domain-A.eu","country":"FR","type":"pageview","uid":"1705c98b-367c-6d09-a30f-da9e6f4da700","n_events":2,"n_consent":1}
+{"datehour":"2021-03-03-17","domain":"my-other-website.com","country":"FR","type":"pageview","uid":"cf73342a-9edb-4312-ba75-123a0bb5d701","n_events":1,"n_consent":0}
+{"datehour":"2021-03-03-17","domain":"www.mywebsite.com","country":"FR","type":"consent.asked","uid":"cf73342a-9edb-4312-ba75-123a0bb5d701","n_events":1,"n_consent":0}
+{"datehour":"2021-03-03-17","domain":"www.mywebsite.com","country":"ES","type":"consent.given","uid":"5c55edc5-3f2a-4d96-82b4-10420a40a853","n_events":1,"n_consent":1}
+{"datehour":"2021-03-03-17","domain":"www.domain-A.eu","country":"ES","type":"pageview","uid":"dfa709b4-966d-41bb-9f84-9257efe56904","n_events":1,"n_consent":0}
+{"datehour":"2021-03-03-18","domain":"www.domain-A.eu","country":"ES","type":"pageview","uid":"8bfa9ffb-97d5-46f1-b712-215374a30e96","n_events":2,"n_consent":1}
+{"datehour":"2021-03-03-18","domain":"www.mywebsite.com","country":"FR","type":"pageview","uid":"d902eb4a-bac4-4bd5-acf4-9004ed770bf6","n_events":1,"n_consent":1}
+{"datehour":"2021-03-03-17","domain":"www.mywebsite.com","country":"FR","type":"consent.asked","uid":"d902eb4a-bac4-4bd5-acf4-9004ed770bf6","n_events":1,"n_consent":0}
+{"datehour":"2021-03-03-17","domain":"www.domain-A.eu","country":"ES","type":"consent.asked","uid":"31b9b538-b7e0-4ac1-9692-5dda8681d613","n_events":1,"n_consent":0}

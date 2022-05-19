@@ -1,0 +1,8 @@
+{"datehour":"2021-03-03-18","domain":"www.domain-A.eu","country":"ES","consent.asked_total_events":1,"consent.asked_total_consent":0,"consent.asked_avg_events":1.0,"consent.given_total_events":1,"consent.given_total_consent":0,"consent.given_avg_events":1.0,"pageview_total_events":2,"pageview_total_consent":1,"pageview_avg_events":2.0}
+{"datehour":"2021-03-03-17","domain":"www.mywebsite.com","country":"ES","consent.given_total_events":1,"consent.given_total_consent":1,"consent.given_avg_events":1.0}
+{"datehour":"2021-03-03-18","domain":"www.mywebsite.com","country":"FR","pageview_total_events":1,"pageview_total_consent":1,"pageview_avg_events":1.0}
+{"datehour":"2021-03-03-17","domain":"www.domain-A.eu","country":"ES","consent.asked_total_events":1,"consent.asked_total_consent":0,"consent.asked_avg_events":1.0,"pageview_total_events":1,"pageview_total_consent":0,"pageview_avg_events":1.0}
+{"datehour":"2021-03-03-17","domain":"my-other-website.com","country":"FR","pageview_total_events":1,"pageview_total_consent":0,"pageview_avg_events":1.0}
+{"datehour":"2021-03-03-17","domain":"www.mywebsite.com","country":"FR","consent.asked_total_events":2,"consent.asked_total_consent":0,"consent.asked_avg_events":1.0,"consent.given_total_events":1,"consent.given_total_consent":1,"consent.given_avg_events":1.0}
+{"datehour":"2021-03-03-17","domain":"www.mywebsite.com","country":"DE","consent.given_total_events":1,"consent.given_total_consent":1,"consent.given_avg_events":1.0}
+{"datehour":"2021-03-03-17","domain":"www.domain-A.eu","country":"FR","consent.given_total_events":1,"consent.given_total_consent":1,"consent.given_avg_events":1.0,"pageview_total_events":2,"pageview_total_consent":1,"pageview_avg_events":2.0}
